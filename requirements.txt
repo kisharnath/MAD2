@@ -1,0 +1,10 @@
+flask
+flask-SQLALchemy
+flask-security-too
+Flask-Migrate
+pytz
+redis
+celery
+email_validator
+marshmallow
+Flask-Mail
